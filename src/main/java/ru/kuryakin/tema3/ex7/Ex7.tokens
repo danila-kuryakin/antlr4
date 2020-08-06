@@ -1,0 +1,5 @@
+Hex=1
+Ident=2
+Decimal=3
+Comment=4
+Other=5

@@ -1,0 +1,7 @@
+WS=1
+CommentNew=2
+Other=3
+CommentStart=4
+CommentClose=5
+Text=6
+'*)'=5

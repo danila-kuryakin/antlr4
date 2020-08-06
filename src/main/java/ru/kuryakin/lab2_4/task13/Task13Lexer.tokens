@@ -1,0 +1,8 @@
+T__0=1
+Mov=2
+Reg=3
+SegmentReg=4
+Number=5
+WS=6
+','=1
+'mov'=2
